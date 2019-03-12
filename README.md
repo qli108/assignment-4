@@ -14,4 +14,4 @@ Click [here](http://i6.cims.nyu.edu/~qfl201/drawing/assignment%202/index.html) t
 
 I forked the following icon system from [Emily Lee](https://github.com/eyl291/assignment4). 
 
-Click [here]() to see the animations I added.
+Click [here](http://i6.cims.nyu.edu/~qfl201/drawing/assignment%204/index.html) to see the animations I added.
